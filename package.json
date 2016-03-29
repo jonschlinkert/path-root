@@ -41,6 +41,7 @@
       "gulp-format-md"
     ],
     "related": {
+      "highlight": "parse-filepath",
       "list": [
         "path-root-regex",
         "parse-filepath",

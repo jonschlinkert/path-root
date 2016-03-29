@@ -2,6 +2,8 @@
 
 > Get the root of a posix or windows filepath.
 
+You might also be interested in [parse-filepath](https://github.com/jonschlinkert/parse-filepath).
+
 ## Install
 
 Install with [npm](https://www.npmjs.com/):
